@@ -1,0 +1,4 @@
+1- Padrão numérico 4/2 encontrado nas linhas na horizontal é quebrado na quinta linha da vertical.
+2- Padrão de letras PMMPMP é quebrado na quinta linha na horizontal.
+3- Padrão MPMPMM é quebrado na quinta linha na vertical.
+4- Padrão geométrico que forma um quadrado 3/1, 3/1, 2/2 é quebrado no último quadrado.
