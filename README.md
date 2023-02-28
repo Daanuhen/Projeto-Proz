@@ -1,3 +1,4 @@
+![427128](https://user-images.githubusercontent.com/124507005/221964087-1665f0e9-9101-4cc1-a03b-72c033e4026e.jpg)
 # Receita de bolo 🎂
 + 1- Higienize as mãos seguindo os protocolos de limpeza.
 + 2- Separe os utensilios necessários já limpos e organizados para o preparo do bolo.
@@ -22,3 +23,4 @@
     <td>1h</td>
   </tr>
   </table>
+<h6>Dev Daan</h6>
