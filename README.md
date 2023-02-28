@@ -14,13 +14,13 @@
 + 11- Pronto, seu bolo está concluído, agora é so aproveitar com a família e amigos.
 ## Para fins de prefência na otimização do tempo de preparo
 <table>
-  <td>180 graus</td>
-    <td>160 graus</td>
+  <td>160 graus</td>
+    <td>180 graus</td>
       <td>190 graus</td>
   <tr>
-    <td>40 minutos</td>
-    <td>50 minutos</td>
     <td>1h</td>
+    <td>50 minutos</td>
+    <td>40 minutos</td>
   </tr>
   </table>
 <h6>Dev Daan</h6>
