@@ -1,5 +1,6 @@
 ![427128](https://user-images.githubusercontent.com/124507005/221964087-1665f0e9-9101-4cc1-a03b-72c033e4026e.jpg)
-# Receita de bolo 🎂
+<h1 align="center">Receita de bolo 🎂</h1>
+
 + 1- Higienize as mãos seguindo os protocolos de limpeza.
 + 2- Separe os utensilios necessários já limpos e organizados para o preparo do bolo.
 + 3- Em uma xícara coloque os ovos já quebrados e misturados (peneirar a gosto para remover sabor de ovo cru ou outras particularidades).
