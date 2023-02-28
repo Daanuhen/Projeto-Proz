@@ -1,2 +1,1 @@
-# super-goggles
-Receita de bolo
+# Receita de bolo
